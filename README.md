@@ -1,8 +1,10 @@
-# React + Vite
+# Paso 1:
+### Instalar visual studio code
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# paso 2:
+### Instalar Node Js
+# paso 3:
+# Instalar React con vite
+### primer comando: npm create vite@latest
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# perros instalen las dependencias que necesita react para funcionar y levantan el servidor.
