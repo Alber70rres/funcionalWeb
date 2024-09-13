@@ -7,4 +7,4 @@
 # Instalar React con vite
 ### primer comando: npm create vite@latest
 
-# perros instalen las dependencias que necesita react para funcionar y levantan el servidor.
+# Necesitan instalar las dependencias que necesita react para funcionar y levantan el servidor.
